@@ -39,10 +39,11 @@ izvršavaju mašinske instrukcije locirane u memoriji gosta. Prelazak u režim u
 instrukcije iz memorije se može izvršiti upotrebom namjenske instrukcije. Konstruisati primjer
 asemblerskog koda za gosta koji je samomodifikujući (nakon prevođenja u mašinski kod gosta) i u kom
 se modifikovani dio koda izvršava i prije i poslije relevantne modifikacije.
-</p>
+
 Obezbijediti nekoliko jediničnih testova kojima se demonstriraju funkcionalnosti iz stavki u specifikaciji projektnog zadatka.
 Sve detalje koji nisu eksplicitno navedeni implementirati na proizvoljan način.
 
+</p>
 Pridržavati se:
 
 - principa objektno-orijentisanog programiranja i SOLID principa
