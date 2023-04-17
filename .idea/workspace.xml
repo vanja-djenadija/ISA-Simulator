@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d719fb45-d563-4fe2-ac36-ab2f997b3c72" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/files/Jump" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/files/SelfModifying" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operations/binary/Cmp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ISA-Simulator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ISA-Simulator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simulation/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operations/unary/Je.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operations/unary/Je.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operations/unary/Jge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operations/unary/Jge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operations/unary/Jl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operations/unary/Jl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operations/unary/Jmp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operations/unary/Jmp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operations/unary/Jne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operations/unary/Jne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operations/unary/Scan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operations/unary/Scan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simulation/Memory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simulation/Memory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simulation/Processor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simulation/Processor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simulation/Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simulation/Register.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simulation/Simulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simulation/Simulator.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ArUCYVrhhzOlnwNbPOHdjKJfNv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/User20/Downloads/openjfx-17.0.1_windows-x64_bin-sdk/javafx-sdk-17.0.1/lib/javafx.web.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="simulation.Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simulation.Main" />
+      <module name="ISA-Simulator" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\User20\Downloads\ISA-Simulator\src\files\SelfModifying" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d719fb45-d563-4fe2-ac36-ab2f997b3c72" name="Changes" comment="" />
+      <created>1655767071108</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655767071108</updated>
+    </task>
+    <servers />
+  </component>
+</project>
